@@ -13,8 +13,3 @@ The objective of this project is to develop a game playing agent for Super Mario
 <a href="https://1f2f7d64-c0c2-4ccd-ad44-64d654464749.filesusr.com/ugd/a63224_bfba6984528d4515a3a8ad870448ccaa.pdf">Technical Paper</a>
 
 <a href="https://harshwaghela.github.io/MarioKart-Bot/">Infomational Website</a>
-
-# Architecture Overview
-
-![Architecture Image](https://drive.google.com/uc?export=view&id=1mlAvfuMIyvsk_JPDvIsGSB0knBVIru31)
-
