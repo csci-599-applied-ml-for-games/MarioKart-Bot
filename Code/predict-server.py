@@ -55,7 +55,7 @@ if __name__ == "__main__":
     parser.add_argument('-p', '--port', type=int, help='Port number', default=36296)
     parser.add_argument('-c', '--cpu', action='store_true', help='Force Tensorflow to use the CPU.', default=False)
     args = parser.parse_args()
-    print('lalalala')
+    
     if args.cpu:
         os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
         os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
